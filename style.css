@@ -1,0 +1,23 @@
+body
+{
+    
+    text-align: center;
+}
+
+.button:hover
+{
+   background-color: red;
+}
+
+.button
+{
+    background-color:aquamarine;
+    font-size: 20px;
+}
+
+.lable
+{
+    font-size:20px; 
+    background-color:chartreuse;
+}
+
